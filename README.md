@@ -1,1 +1,1 @@
-# capacitymixfornextkw
+# Models and input data for "OPTIMAL CAPACITY MIX FOR DECARBONIZED POWER SYSTEMS INCLUDING GREEN DATA CENTER LOAD"
